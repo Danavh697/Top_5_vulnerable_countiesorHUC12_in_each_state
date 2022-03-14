@@ -11,5 +11,5 @@ Life Expectancy was utilized in this analysis as it is a useful proxy to [vulner
 The Debt-to-Asset Ratio of farms and agricultural companies was utilized as a proxy for rural financial risk and vulnerability. Each county has an average DAR. This data was gathered by Mandy Liesch from the Bureau of Economic Analysis. This is at the county level.
 ### Nitrate and Flooding Data
 The Nitrate and Flooding Data utilized was created by Jerry Mount at the University of Iowa, and was derived from SWAT+ surface runoff data. This is at the HUC12 level.  
-##Methodology
+## Methodology
 In order to complete this analysis, a spatial join was conducted between the Social Vulnerability variables (BRIC, DAR, and Life Expectancy), which were at a county level, and the Nitrogen and Flood risk data, which was at the HUC12 level. Flood Risk Data and Nitrogen Pollution data were analyzed seperately so that overlap between the two could be analyzed at a later date. The spatial join was conducted twice, once so that the data would be at the county level (in which only the HUC12 with the highest Flood risk or Nitrogen risk was apparent) and once so that the data would be at the HUC12 level. This way, specific HUC12s at risk could be seen inside the at-risk counties.
