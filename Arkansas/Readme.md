@@ -22,7 +22,7 @@
   - Scott County
   - Howard County
 
-# Top At-Risk HUC12s for nitrate
+# Top At-Risk HUC12s for Nitrate
   - Sugar Orchard Creek
   - East Sugarloaf Creek-Bull Shoals Lake
   - Big Music Creek-Bull Shoals Lake

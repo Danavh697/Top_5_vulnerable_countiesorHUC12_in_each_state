@@ -21,7 +21,7 @@
   - Concordia Parish
   - Winn Parish
 
-# Top At-Risk HUC12s for nitrate
+# Top At-Risk HUC12s for Nitrate
   - Devils Bayou-Tensas River
   - Devils Bayou-Tensas River
   - Lick Bayou

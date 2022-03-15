@@ -24,7 +24,7 @@
   - Winnebago County
 
 
-# Top At-Risk HUC12s for nitrate
+# Top At-Risk HUC12s for Nitrate
   - Grove City
   - Village of Stonington-Buckhart Creek
   - Spring Creek-Mosquito Creek

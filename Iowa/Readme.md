@@ -21,7 +21,7 @@
   - Scott County
   - Mahaska County
 
-# Top At-Risk HUC12s for nitrate
+# Top At-Risk HUC12s for Nitrate
   - Headwaters Middle Creek
   - East Branch Wapsinonoc Creek-Wapsinonoc Creek
   - Middle Mud Creek
