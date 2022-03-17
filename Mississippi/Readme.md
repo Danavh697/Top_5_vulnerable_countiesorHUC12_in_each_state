@@ -12,7 +12,7 @@
   - Will M. Whittington Auxiliary Channel
   - Will M. Whittington Auxiliary Channel
 
-### Reminder to Add Maps
+  ![Mississippi Flood Risk Map](https://github.com/Danavh697/Top-5-vulnerable-countiesorHUC12-in-each-state/blob/4ee63147b3896e1ae8cb6fc03a4fb7c115568d8c/Maps/Mississippi_Flooding.png)
 
 # Top At-Risk Counties for Nitrate
   - Panola County
