@@ -14,7 +14,6 @@
 
   ![Louisiana Flood Risk Map](https://github.com/Danavh697/Top-5-vulnerable-countiesorHUC12-in-each-state/blob/4ee63147b3896e1ae8cb6fc03a4fb7c115568d8c/Maps/Louisiana_Flooding.png)
 
-
 # Top At-Risk Counties for Nitrate
   - Evangeline Parish
   - Allen Parish
@@ -29,4 +28,4 @@
   - Dean Bayou-Tensas River
   - Black Bayou-Tensas River
 
-### Reminder to Add Maps
+  ![Louisiana Nitrate Risk Map](https://github.com/Danavh697/Top-5-vulnerable-countiesorHUC12-in-each-state/blob/cee4e73481e929677bd57f6963701929615a60b6/Maps/Louisiana_Nitrate.png)

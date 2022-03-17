@@ -29,4 +29,4 @@
   - Ditch Number 2
   - Clear Creek-War Eagle Creek
 
-### Reminder to Add Maps
+![Arkansas Nitrate Risk Map](https://github.com/Danavh697/Top-5-vulnerable-countiesorHUC12-in-each-state/blob/cee4e73481e929677bd57f6963701929615a60b6/Maps/Arkansas_Nitrate.png)

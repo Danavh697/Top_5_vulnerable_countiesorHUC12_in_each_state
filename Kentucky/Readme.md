@@ -28,4 +28,4 @@
   - Steamport Landing-Green River
   - Otter Creek
 
-### Reminder to Add Maps
+![Kentucky and Tennessee Nitrate Risk Map](https://github.com/Danavh697/Top-5-vulnerable-countiesorHUC12-in-each-state/blob/cee4e73481e929677bd57f6963701929615a60b6/Maps/Tennessee_Kentucky_Nitrate.png)

@@ -11,5 +11,10 @@ Life Expectancy was utilized in this analysis as it is a useful proxy to [vulner
 The Debt-to-Asset Ratio of farms and agricultural companies was utilized as a proxy for rural financial risk and vulnerability. Each county has an average DAR. This data was gathered by Mandy Liesch from the Bureau of Economic Analysis. This is at the county level. This data can be found under 'Debtall' in the dataset.
 ### Nitrate and Flooding Data
 The Nitrate and Flooding Data utilized was created by Jerry Mount at the University of Iowa, and was derived from SWAT+ surface runoff data. This is at the HUC12 level. Within data files, Flooding = MEAN_surq_ProxyforFlooding and Nitrate = sumno3_Nitrate.  
+##Maps
+![All States Flood Risk Map](https://github.com/Danavh697/Top-5-vulnerable-countiesorHUC12-in-each-state/blob/cee4e73481e929677bd57f6963701929615a60b6/Maps/All_Flooding.png)
+
+![All States Nitrate Risk Map](https://github.com/Danavh697/Top-5-vulnerable-countiesorHUC12-in-each-state/blob/cee4e73481e929677bd57f6963701929615a60b6/Maps/All_Nitrate.png)
+
 ## Methodology
 In order to complete this analysis, a spatial join was conducted between the Social Vulnerability variables (BRIC, DAR, and Life Expectancy), which were at a county level, and the Nitrogen and Flood risk data, which was at the HUC12 level. Flood Risk Data and Nitrogen Pollution data were analyzed seperately so that overlap between the two could be analyzed at a later date. The spatial join was conducted twice, once so that the data would be at the county level (in which only the HUC12 with the highest Flood risk or Nitrogen risk was apparent) and once so that the data would be at the HUC12 level. This way, specific HUC12s at risk could be seen inside the at-risk counties. The only flood risk and nitrate that will appear is the risk inside counties that have already been deemed socially vulnerable. For example, in Iowa, there are 9 counties that are considered at-risk due to their BRIC, DAR, and Life Expectancy statistics. Only impaired water bodies from those 9 counties will appear in this analysis.
