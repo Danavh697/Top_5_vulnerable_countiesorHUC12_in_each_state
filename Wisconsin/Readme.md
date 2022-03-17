@@ -26,6 +26,6 @@
   - Kilbourn Road Ditch
   - Headwaters Des Plaines River
   - Muskego Lake
-  -North Mill Creek
+  - North Mill Creek
 
 ### Reminder to Add Maps
