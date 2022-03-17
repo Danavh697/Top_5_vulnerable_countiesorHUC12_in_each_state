@@ -13,7 +13,7 @@
   - Mud Creek
 
 ### Flooding Maps
-![Tennesee and Kentucky Flood Risk Map](Top-5-vulnerable-countiesorHUC12-in-each-state\Maps\Tennessee_Kentucky_Flooding.png)
+![Tennesee and Kentucky Flood Risk Map](\Maps\Tennessee_Kentucky_Flooding.png)
 
 # Top At-Risk Counties for Nitrate
   - Grundy County
