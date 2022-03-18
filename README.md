@@ -13,7 +13,7 @@ The Debt-to-Asset Ratio of farms and agricultural companies was utilized as a pr
 The Nitrate and Flooding Data utilized was created by Jerry Mount at the University of Iowa, and was derived from SWAT+ surface runoff data. This is at the HUC12 level. Within data files, Flooding = MEAN_surq_ProxyforFlooding and Nitrate = sumno3_Nitrate.  
 
 ## Maps
-![All States Flood Risk Map](https://github.com/Danavh697/Top-5-vulnerable-countiesorHUC12-in-each-state/blob/cee4e73481e929677bd57f6963701929615a60b6/Maps/All_Flooding.png)
+![All States Flood Risk Map](https://github.com/Danavh697/Top-5-vulnerable-countiesorHUC12-in-each-state/blob/143f78327078710bd8298cf0d831852125079338/Maps/All_Flooding.png)
 
 ![All States Nitrate Risk Map](https://github.com/Danavh697/Top-5-vulnerable-countiesorHUC12-in-each-state/blob/cee4e73481e929677bd57f6963701929615a60b6/Maps/All_Nitrate.png)
 
