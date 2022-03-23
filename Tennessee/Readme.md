@@ -1,3 +1,8 @@
+# Tennessee Risk Medians
+- BRIC: 2.668
+- DAR: 0.360
+- Life Expectancy: 74.652
+
 # Top At-Risk Counties for Flooding
   - Lauderdale County
   - Overton County

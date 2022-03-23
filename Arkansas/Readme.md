@@ -1,3 +1,8 @@
+# Arkansas Risk Medians
+- BRIC: 2.635
+- DAR: 0.389
+- Life Expectancy: 74.916
+
 # Top At-Risk Counties for Flooding
   - Chicot County
   - Bradley County

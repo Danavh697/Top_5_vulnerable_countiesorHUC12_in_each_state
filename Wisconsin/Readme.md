@@ -1,3 +1,8 @@
+# Wisconsin Risk Medians
+- BRIC: 2.863
+- DAR: 0.192
+- Life Expectancy: 79.395 
+
 # Top At-Risk Counties for Flooding
   - Oneida County
   - Vilas County

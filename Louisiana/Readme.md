@@ -1,3 +1,8 @@
+# Louisiana Risk Medians
+- BRIC: 2.770
+- DAR: 0.432
+- Life Expectancy: 75.128 
+
 # Top At-Risk Counties for Flooding
   - East Feliciana Parish
   - Concordia Parish

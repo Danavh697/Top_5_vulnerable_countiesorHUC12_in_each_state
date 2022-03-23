@@ -1,3 +1,8 @@
+# Iowa Risk Medians
+- BRIC: 2.895
+- DAR: 0.200
+- Life Expectancy: 79.163 
+
 # Top At-Risk Counties for Flooding
   - Lee County
   - Wapello County

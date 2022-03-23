@@ -1,3 +1,8 @@
+# Minnesota Risk Medians
+- BRIC: 2.962
+- DAR: 0.141
+- Life Expectancy: 80.531  
+
 # Top At-Risk Counties for Flooding
   - Aitkin County
   - Carlton County

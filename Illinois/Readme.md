@@ -1,3 +1,8 @@
+# Illinois Risk Medians
+- BRIC: 2.848
+- DAR: 0.272
+- Life Expectancy: 78.025
+
 # Top At-Risk Counties for Flooding
   - Cass County
   - Saline County

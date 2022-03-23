@@ -1,3 +1,8 @@
+# Kentucky Risk Medians
+- BRIC: 2.696
+- DAR: 0.365
+- Life Expectancy: 74.706  
+
 # Top At-Risk Counties for Flooding
   - Russell County
   - Webster County

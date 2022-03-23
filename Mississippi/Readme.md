@@ -1,3 +1,8 @@
+# Mississippi Risk Medians
+- BRIC: 2.654
+- DAR: 0.394
+- Life Expectancy: 74.118
+
 # Top At-Risk Counties for Flooding
   - Claiborne County
   - Wilkinson County

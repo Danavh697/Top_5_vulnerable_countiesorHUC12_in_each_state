@@ -1,3 +1,8 @@
+# Missouri Risk Medians
+- BRIC: 2.765
+- DAR: 0.309
+- Life Expectancy: 76.600
+
 # Top At-Risk Counties for Flooding
   - Dunklin County
   - St. Louis City
