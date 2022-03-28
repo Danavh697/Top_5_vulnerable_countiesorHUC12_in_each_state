@@ -43,10 +43,21 @@ Flooding tended to be more severe towards the bottom of the watershed, namely in
 In the map below, the area where this overlap occurs can be seen in bright pink. Areas with high flood risk can be seen in green, and areas with high nitrate pollution can be see in light pink.
 ![Flooding and Nitrate](https://github.com/Danavh697/Top_5_vulnerable_countiesorHUC12_in_each_state/blob/0554eab9f3805a6b7cfffa730f76c429535e8d0f/Maps/NitrateandFlooding.png)
 
-This map displays where flooding is most prominant in the basin. [Flooding](https://github.com/Danavh697/Top_5_vulnerable_countiesorHUC12_in_each_state/blob/2158d481117346e38eafe7884458a1a9f9491dcc/Maps/Floodingonly.png)
+### Maps displaying Flooding and Nitrate pollution findings
+This map displays where flooding is most prominant in the basin.
+![Flooding](https://github.com/Danavh697/Top_5_vulnerable_countiesorHUC12_in_each_state/blob/2158d481117346e38eafe7884458a1a9f9491dcc/Maps/Floodingonly.png)
 
-This map displays the 50 HUC12s that are most vulnerable to flooding in the basin. [Top 50](https://github.com/Danavh697/Top_5_vulnerable_countiesorHUC12_in_each_state/blob/2158d481117346e38eafe7884458a1a9f9491dcc/Maps/Top50HUC12Flooding.png)
+This map displays the 50 HUC12s that are most vulnerable to flooding in the basin.
+![Top 50](https://github.com/Danavh697/Top_5_vulnerable_countiesorHUC12_in_each_state/blob/2158d481117346e38eafe7884458a1a9f9491dcc/Maps/Top50HUC12Flooding.png)
 
-This map displays where nitrate pollution is most prominant in the basin. [Nitrate](https://github.com/Danavh697/Top_5_vulnerable_countiesorHUC12_in_each_state/blob/2158d481117346e38eafe7884458a1a9f9491dcc/Maps/Nitrateonly.png)
+This map displays where nitrate pollution is most prominant in the basin.
+![Nitrate](https://github.com/Danavh697/Top_5_vulnerable_countiesorHUC12_in_each_state/blob/2158d481117346e38eafe7884458a1a9f9491dcc/Maps/Nitrateonly.png)
 
-This map displays the 50 HUC12s that are most vulnerable to nitrate pollution in the basin. [Top 50](https://github.com/Danavh697/Top_5_vulnerable_countiesorHUC12_in_each_state/blob/2158d481117346e38eafe7884458a1a9f9491dcc/Maps/Top50HUC12Nitrate.png)
+This map displays the 50 HUC12s that are most vulnerable to nitrate pollution in the basin.
+![Top 50](https://github.com/Danavh697/Top_5_vulnerable_countiesorHUC12_in_each_state/blob/2158d481117346e38eafe7884458a1a9f9491dcc/Maps/Top50HUC12Nitrate.png)
+
+This map displays the overlap between counties determined as at-risk as described [here](https://github.com/Danavh697/Top_5_vulnerable_countiesorHUC12_in_each_state#methodology) and the 50 counties with the highest overall flood risk in the basin.
+![HRCvsTotalflooding](https://github.com/Danavh697/Top_5_vulnerable_countiesorHUC12_in_each_state/blob/d65658a99240e7b339673568e924145fd35d7183/Maps/FloodingcountiesHRCvsall.png)
+
+This map displays the overlap between counties determined as at-risk as described [here](https://github.com/Danavh697/Top_5_vulnerable_countiesorHUC12_in_each_state#methodology) and the 50 counties with the highest overall nitrate pollution risk in the basin. 
+![HRCvsTotalnitrate](https://github.com/Danavh697/Top_5_vulnerable_countiesorHUC12_in_each_state/blob/d65658a99240e7b339673568e924145fd35d7183/Maps/NitratecountiesHRCvsall.png)
