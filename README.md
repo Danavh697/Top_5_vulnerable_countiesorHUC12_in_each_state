@@ -5,7 +5,7 @@
 ## Data Utilized
 ### [Baseline Resilience Indicators for Communities (BRIC)](https://www.sc.edu/study/colleges_schools/artsandsciences/centers_and_institutes/hvri/data_and_resources/bric/index.php)
 The BRIC index considers six categories of community disaster resilience: Social, economic, community capital, institutional, infrastructural, and environmental at the county level. The input variables used to measure these categories are then scaled from 0 to 1 with 1 meaning increasing resilience. Once constructed, the sub-index scores are summed to create the overall BRIC score, which ranges from 0-6 for each county. This is at the county level. This data can be found under 'TOT RESIL2015' in the dataset.
-![Only BRIC](https://github.com/Danavh697/Top_5_vulnerable_countiesorHUC12_in_each_state/blob/87aa0df5ca0bb4b6532553a371c18a0f706c9966/Maps/BRICScore_allstates.png)
+![Only BRIC](Maps/UpdatedBRICmap.png)
 
 ### [Life Expectancy](https://www.arcgis.com/home/item.html?id=c514eddc6d584e85bc2f90be25305fc8)
 Life Expectancy was utilized in this analysis as it is a useful proxy to [overall health of a community](https://data.oecd.org/healthstat/life-expectancy-at-birth.htm). As life expectancy displays a community's vulnerability to [health risks that could be a result of environmental or systemic issues](https://research.umn.edu/inquiry/post/better-environment-not-slower-aging-increases-life-expectancy), it is useful to measure as a health metric. Environmental degradation is one of the critical determinants of life expectancy, [but it is still under-researched](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262802). This is at the county level. This data can be found under 'LIFE_EX' in the dataset.
