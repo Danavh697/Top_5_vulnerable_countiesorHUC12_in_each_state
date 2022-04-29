@@ -16,7 +16,9 @@ The Debt-to-Asset Ratio of farms and agricultural companies was utilized as a pr
 ![Only DAR](https://github.com/Danavh697/Top_5_vulnerable_countiesorHUC12_in_each_state/blob/87aa0df5ca0bb4b6532553a371c18a0f706c9966/Maps/DAR_allstates.png)
 
 ### Nitrate and Flooding Data
-The Nitrate and Flooding Data utilized was created by Jerry Mount at the University of Iowa, and was derived from SWAT+ surface runoff data. This is at the HUC12 level. Within data files, Flooding = MEAN_surq_ProxyforFlooding and Nitrate = sumno3_Nitrate.  
+The Nitrate and Flooding Data utilized was created by Jerry Mount at the University of Iowa, and was derived from SWAT+ surface runoff data. This is at the HUC12 level. Within data files, Flooding = MEAN_surq_ProxyforFlooding and Nitrate = sumno3_Nitrate. Other variables in this dataset include:
+- SURQGEN: The amount of surface runoff contribution from streamflow from HRU during simulation.(Amount generated before transmission pothole, wetland and pond losses – mm)
+- NO3 SURQ: Nitrate loading to stream in surface runoff in watershed for the day, month or year. (kgN/ha) (Total N03 is calculated from NO3_SURQ, NO3_LATQ and NO3_tile)
 
 ## Maps
 ![All States Flood Risk Map](https://github.com/Danavh697/Top-5-vulnerable-countiesorHUC12-in-each-state/blob/143f78327078710bd8298cf0d831852125079338/Maps/All_Flooding.png)
