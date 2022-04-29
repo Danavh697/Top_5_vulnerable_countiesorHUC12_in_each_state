@@ -21,9 +21,9 @@ The Nitrate and Flooding Data utilized was created by Jerry Mount at the Univers
 - NO3 SURQ: Nitrate loading to stream in surface runoff in watershed for the day, month or year. (kgN/ha) (Total N03 is calculated from NO3_SURQ, NO3_LATQ and NO3_tile)
 
 ## Maps
-![All States Flood Risk Map](https://github.com/Danavh697/Top-5-vulnerable-countiesorHUC12-in-each-state/blob/143f78327078710bd8298cf0d831852125079338/Maps/All_Flooding.png)
+![All States Flood Risk Map](https://github.com/Danavh697/Top_5_vulnerable_countiesorHUC12_in_each_state/blob/081c1d005c96f7bc49604a70cd395173b9b24d11/Maps/Updatedcountyandhuc12_flooding.png)
 
-![All States Nitrate Risk Map](https://github.com/Danavh697/Top-5-vulnerable-countiesorHUC12-in-each-state/blob/cee4e73481e929677bd57f6963701929615a60b6/Maps/All_Nitrate.png)
+![All States Nitrate Risk Map](https://github.com/Danavh697/Top_5_vulnerable_countiesorHUC12_in_each_state/blob/081c1d005c96f7bc49604a70cd395173b9b24d11/Maps/UpdatedCountyandHuc12_Nitrate.png)
 
 ## Methodology
 In order to complete this analysis, a spatial join was conducted between the Social Vulnerability variables (BRIC, DAR, and Life Expectancy), which were at a county level, and the Nitrogen and Flood vulnerability data, which was at the HUC12 level. The averages for each Social Vulnerability variables were found for each state, and each state's individual averages were used in order to find socially vulnerable counties. The maps in this analysis display the basin-wide averages for the socially vulnerable variables. The 5 counties that were at the highest vulnerability and intersected with the highest flooding or nitrate pollution were selected and put into a list with all of the highest risk counties in the basin. A similar action was conducted in order to find the most vulnerable HUC12s in each state. All counties with social vulnerability for each state can be found within the individual state's data file.
