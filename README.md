@@ -9,11 +9,11 @@ The BRIC index considers six categories of community disaster resilience: Social
 
 ### [Life Expectancy](https://www.arcgis.com/home/item.html?id=c514eddc6d584e85bc2f90be25305fc8)
 Life Expectancy was utilized in this analysis as it is a useful proxy to [overall health of a community](https://data.oecd.org/healthstat/life-expectancy-at-birth.htm). As life expectancy displays a community's vulnerability to [health risks that could be a result of environmental or systemic issues](https://research.umn.edu/inquiry/post/better-environment-not-slower-aging-increases-life-expectancy), it is useful to measure as a health metric. Environmental degradation is one of the critical determinants of life expectancy, [but it is still under-researched](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262802). This is at the county level. This data can be found under 'LIFE_EX' in the dataset.
-![Only Life Expectancy](https://github.com/Danavh697/Top_5_vulnerable_countiesorHUC12_in_each_state/blob/87aa0df5ca0bb4b6532553a371c18a0f706c9966/Maps/Lifeexpectancy_allstates.png)
+![Only Life Expectancy](https://github.com/Danavh697/Top_5_vulnerable_countiesorHUC12_in_each_state/blob/8bd345c8fcc7cbf4256a8aa889b83446f8f54b7c/Maps/Updated_lifeexpectancy.png)
 
 ### [Debt-to-Asset Ratio (DAR)](https://www.bea.gov/data)
 The Debt-to-Asset Ratio of farms and agricultural companies was utilized as a proxy for rural financial risk and vulnerability. Each county has an average DAR. This data was gathered from the Bureau of Economic Analysis by [Mandy Liesch](https://github.com/agrichick45/EDF/blob/main/ReadMe.md#farm-income-and-debt-to-asset-ratio). This is at the county level. This data can be found under 'Debtall' in the dataset.
-![Only DAR](https://github.com/Danavh697/Top_5_vulnerable_countiesorHUC12_in_each_state/blob/87aa0df5ca0bb4b6532553a371c18a0f706c9966/Maps/DAR_allstates.png)
+![Only DAR](https://github.com/Danavh697/Top_5_vulnerable_countiesorHUC12_in_each_state/blob/8bd345c8fcc7cbf4256a8aa889b83446f8f54b7c/Maps/UpdatedDAR.png)
 
 ### Nitrate and Flooding Data
 The Nitrate and Flooding Data utilized was created by Jerry Mount at the University of Iowa, and was derived from SWAT+ surface runoff data. This is at the HUC12 level. Within data files, Flooding = MEAN_surq_ProxyforFlooding and Nitrate = sumno3_Nitrate. Other variables in this dataset include:
